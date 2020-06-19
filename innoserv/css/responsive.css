@@ -1,0 +1,312 @@
+@media screen and (min-width: 320px) {
+ .input_flex{
+  display: block;
+ }
+
+ .input_flex .input_box{
+  margin: 0px 0px 10px 0px
+ }
+
+ .form_input .btn_enquire{
+    width: 100%;
+    margin-top: 1rem;
+ }
+
+ .objecttives_card{
+ 	min-width: 100%;
+ 	margin: 0px 0px 11px 0px
+ }
+
+.recruiters_logo .compnay_logo{
+  flex: 0 0 100%;
+  margin: 0px 0px 13px 0px;
+}
+
+.award_trophy{
+  height: auto;
+}
+
+.award_trophy_content{
+  height: auto;
+  padding: 15px;
+}
+
+.award_trophy_content h1{
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.award_trophy_content .media .media-heading{
+  font-size: 1.1rem;
+}
+
+.award_trophy_content .media {
+	align-items: center;
+}
+
+.testimonial_card .img_user{
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.testimonial_contnet .head_with_ornageBg{
+	text-align: center;
+	display: block;
+}
+
+.icon_card_box_flex .card_icon{
+  height: 10.3rem;
+  flex: 0 0 100%;
+  margin: 0px 0px 22px 0px;
+  transform: scale(1);
+  transition: 0.4s ease-in-out;
+}
+
+.two_year_text{
+  font-size: 1.4rem;
+}
+
+
+.why_dpatil .col-lg-3,
+.why_dpatil .col-md-3{
+  border-right: 0;
+}
+
+
+.separation_line{
+  border-bottom: 0;
+  margin-bottom: 0rem;
+  width: 100%;
+  margin-top: 0rem;
+}
+
+.left_side_map .header_content h3{
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: 600;
+  padding: 2rem 0px 2rem 0px;
+  line-height: 30px;
+  margin-top: 0rem;
+  text-align: center;
+}
+
+.header_left_right_content .container{
+	display: block;
+}
+
+
+.left_side_map .header_content:before{
+	display: none;
+}
+
+
+.header{
+	height: auto;
+}
+
+.header_left_right_content .right_image .right_align_img,
+.brand_logo{
+  position: relative;
+}
+
+
+.left_side_map .header_content{
+  height: auto;
+}
+
+
+.left_side_map .header_content{
+  display: block;
+}
+
+
+
+}
+
+@media screen and (min-width: 425px) {
+  
+}
+
+@media screen and (min-width:481px) {
+ 
+}
+
+@media only screen and (min-width: 768px) {
+ .input_flex{
+  display: flex;
+ }
+
+ .input_flex .input_box{
+  margin: 0px 0px 10px 10px
+ }
+
+ .form_input .btn_enquire{
+    width: auto;
+    margin-top: 0rem;
+ }
+
+ .objecttives_card{
+ 	min-width: 48%;
+ 	margin: 0px 0px 11px 11px
+ }
+
+ .recruiters_logo .compnay_logo{
+  flex: 0 0 18%;
+  margin: 0px 6px 13px 6px;
+}
+
+.testimonial_contnet .head_with_ornageBg{
+	text-align: center;
+	display: block;
+}
+
+.icon_card_box_flex .card_icon{
+  height: 10.3rem;
+  flex: 0 0 46%;
+  margin: 0px 12px 22px 12px;
+  transform: scale(1);
+  transition: 0.4s ease-in-out;
+}
+
+
+.two_year_text{
+  font-size: 1.4rem;
+}
+
+
+
+.left_side_map .header_content h3{
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 600;
+  padding: 0px 39px 0px 0px;
+  line-height: 45px;
+  margin-top: 5rem;
+  text-align: left;
+}
+
+.header{
+	height: 352px;
+}
+
+
+.header_left_right_content .container{
+	display: flex;
+}
+
+.left_side_map .header_content:before{
+	display: block;
+}
+
+.header_left_right_content .right_image .right_align_img{
+  position: absolute;
+}
+
+.left_side_map .header_content{
+  height: 452px;
+}
+
+.brand_logo{
+	position: absolute;
+}
+
+.left_side_map .header_content{
+  display: flex;
+}
+
+}
+
+@media only screen and (min-width: 992px) {
+ 
+}
+
+@media only screen and (min-width: 1024px) {
+  	
+ .objecttives_card{
+ 	min-width: 13rem;
+ 	margin: 0px 0px 11px 11px;
+ }
+
+.award_trophy{
+  height: 375px;
+}
+
+.award_trophy_content{
+  height: 375px;
+  padding: 0px 15px 0px 45px;
+}
+
+.award_trophy_content h1{
+  font-size: 2rem;
+  text-align: left;
+}
+
+.award_trophy_content .media .media-heading{
+  font-size: 1.6rem;
+}
+
+.award_trophy_content .media {
+	align-items: left;
+}
+
+.testimonial_card .img_user{
+  margin-bottom: 0rem;
+  text-align: left;
+}
+
+.testimonial_contnet .head_with_ornageBg{
+	width: auto;
+	text-align:left;
+}
+
+.testimonial_contnet .head_with_ornageBg{
+	text-align: left;
+	display: inline-block;
+}
+
+.icon_card_box_flex .card_icon{
+  height: 10.3rem;
+  flex: 0 0 31%;
+  margin: 0px 25px 22px 0px;
+  transform: scale(1);
+  transition: 0.4s ease-in-out;
+}
+
+
+.two_year_text{
+  font-size: 1.8rem;
+}
+
+.why_dpatil .col-lg-3,
+.why_dpatil .col-md-3{
+  border-right: 2px solid #000;
+}
+
+
+.separation_line{
+  border-bottom: 2px solid #000;
+  margin-bottom: 1.5rem;
+  width: 100%;
+  margin-top: 1.5rem;
+}
+
+
+.left_side_map .header_content h3{
+  color: #fff;
+  font-size: 2.69rem;
+  font-weight: 600;
+  padding: 0px 39px 0px 0px;
+  line-height: 65px;
+  margin-top: 5rem;
+}
+
+
+}
+
+@media only screen and (min-width: 1200px)and (max-width: 1600px) {
+  
+}
+
+@media only screen and (min-width: 1610px)and (max-width: 2600px) {
+  
+}
